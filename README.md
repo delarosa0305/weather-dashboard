@@ -22,11 +22,11 @@ THEN I am again presented with current and future conditions for that city
 https://delarosa0305.github.io/weather-dashboard/
 
 # ScreenShots
-![screenshots](assets\images\weather-dashboard-1.png)
+![screenshots](assets/images/weather-dashboard-1.png)
 
-![screenshots](assets\images\weather-dashboard-2.png)
+![screenshots](assets/images/weather-dashboard-2.png)
 
-![screenshots](assets\images\weather-dashboard-3.png)
+![screenshots](assets/images/weather-dashboard-3.png)
 
 # Note
 All acceptance criteria have been met, code follows a logical structure and has been updated to generate weather forcast
